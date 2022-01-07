@@ -1,0 +1,112 @@
+[
+   
+    {
+        "question": "Look at this series: 12, 11, 13, 12, 14, 13, … What number should come next?",
+        "optionA": "10",
+        "optionB": "16",
+        "optionC": "13",
+        "optionD": "15",
+        "answer": "15"
+       
+    },
+        {
+        "question": "Which word does NOT belong with the others?",
+        "optionA": "index",
+        "optionB": "glossary",
+        "optionC": "chapter",
+        "optionD": "book",
+        "answer": "book"
+       
+        },
+        {
+        "question": " Paw : Cat :: Hoof : ?",
+        "optionA": "lamb",
+        "optionB": "horse",
+        "optionC": "Elephant",
+        "optionD": "tiger",
+        "answer": "horse"
+        
+        },
+        {
+        "question": " Look at this series: 7, 10, 8, 11, 9, 12, … What number should come next?",
+        "optionA": "7",
+        "optionB": "12",
+        "optionC": "10",
+        "optionD": "13",
+        "answer": "10"
+      
+        },
+        {
+        "question": "In a family, there are husband-wife, two sons and two daughters. All the ladies were invited to a dinner. Both sons went out to play. Husband did not return from the office. Who was at home?",
+        "optionA": "Only wife was at home",
+        "optionB": "Nobody was at home",
+        "optionC": "Only sons were at home",
+        "optionD": "All ladies were at home",
+        "answer": "Nobody was at home"
+        
+        },
+        {
+        "question": "Pointing to a photograph, a man said, “I have no brother or sister but that man’s father is my father’s son.” Whose photograph was it?",
+        "optionA": "His Own",
+        "optionB": "His Son",
+        "optionC": "His Father",
+        "optionD": "His Grandfather",
+        "answer": "His Father"
+       
+        },
+        {
+        "question": "In a code language if POSE is coded as OQNPRTDF, then the word TYPE will be coded as",
+        "optionA": "SUXZOQFD",
+        "optionB": "SUXZQOFD",
+        "optionC": "SUXZOQDF",
+        "optionD": "SUXZQODE",
+        "answer": "SUXZQODE"
+       
+        
+        },
+        {
+        "question": " I am facing East. Turning to the right I go 20 m, then turning to the left I go 20 m and turning to the right I go 20 m, then again turning to the right I go 40 m and then again I go 40 m to the right. In which direction am I from my original position?",
+        "optionA": "North",
+        "optionB": "West",
+        "optionC": "South",
+        "optionD": "East",
+        "answer": "West"
+        
+        },
+        {
+        "question": "A, B, C, D, E, and F are sitting in a row. E and F are in the center. A and B are at the ends. C is sitting to the left of A. Who is to the right of B?",
+        "optionA": "D",
+        "optionB": "C",
+        "optionC": "A",
+        "optionD": "F",
+        "answer": "C"
+        
+        },
+        {
+        "question": "In Arun’s opinion, his weight is greater than 65 kg but less than 72 kg. His brother doesn’t agree with Arun and he thinks that Arun’s weight is greater than 60 kg but less than 70 kg. His mother’s view is that his weight cannot be greater than 68 kg. If all are them are correct in their estimation, what is the average of different probable weights of Arun?",
+        "optionA": "67 kg",
+        "optionB": "68 kg",
+        "optionC": "69 kg",
+        "optionD": "None of the above",
+        "answer": "67 kgE"
+       
+        },
+        {
+        "question": " If in a certain language, MADRAS is coded as NBESBT, how is BOMBAY coded in that code?",
+        "optionA": "CPNCBX",
+        "optionB": "CPNCBZ",
+        "optionC": "CPOCBZ",
+        "optionD": "CQOCBZ",
+        "answer": "CPNCBZ"
+        
+        },
+        {
+        "question": "Four usual dice are thrown on the ground. The total of numbers on the top faces of these four dice is 13 as the top faces showed 4, 3, 1 and 5 respectively. What is the total of the faces touching the ground?",
+        "optionA": "12",
+        "optionB": "13",
+        "optionC": "15",
+        "optionD": "Cannot Determined",
+        "answer": "15"
+       
+        }
+]
